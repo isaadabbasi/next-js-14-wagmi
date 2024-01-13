@@ -1,0 +1,17 @@
+
+.btn {
+  color: white;
+  padding: 8px 16px;
+  border-radius: 5px;
+  border: none;
+  text-transform: uppercase;
+}
+
+.btn-lg {
+  padding: 16px 32px;
+  font-size: 24px;
+}
+
+.btn-primary {
+  background-color: #0070f3;
+}
